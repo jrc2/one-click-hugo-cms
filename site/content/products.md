@@ -69,6 +69,8 @@ testimonials:
     quote: >-
       Kaldi is the place to go if you want the best quality coffee. I love their
       stance on empowering farmers and transparency.
+  - author: John Doe
+    quote: It's the best!
 full_image: /img/products/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
@@ -91,13 +93,21 @@ pricing:
         - Up to 4 different varieties of beans
       plan: Big
       price: '80'
+    - description: Great for super-sized families!
+      items:
+        - 10 lbs of coffee per month
+        - A free mug
+        - 'Only roasted beans :('
+        - >-
+          Up to 3 varieties of beans each month (but you can change the
+          varieties each month!)
+      plan: Mega
+      price: '120'
     - description: Want a few tiny batches from different varieties? Try our custom plan
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
+        - Whatever you want
+        - Contact us today for a quote
       plan: Custom
       price: '?'
 ---
-
 
